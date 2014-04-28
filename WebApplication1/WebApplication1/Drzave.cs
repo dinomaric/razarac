@@ -9,7 +9,7 @@ namespace WebApplication1
     {
         public string CountryCode { get; set; }
 
-        public string CountryFullName { get; set; }
+        public string CountryFuleName { get; set; }
 
     }
 }
